@@ -12,9 +12,9 @@ document.addEventListener('DOMContentLoaded', function () {
   const modalDescription = document.getElementById('modal-description');
 
   const products = [
-    { title: 'Product 1', description: 'Detailed info about Product 1.' },
-    { title: 'Product 2', description: 'Detailed info about Product 2.' },
-    { title: 'Product 3', description: 'Detailed info about Product 3.' },
+    { title: 'Smart Home Hub', description: 'Control all your smart devices from one intuitive dashboard. Seamlessly connect, automate, and monitor your home with ease.' },
+    { title: 'Wireless Earbuds', description: 'Experience true freedom with crystal-clear sound and all-day comfort. Enjoy noise cancellation and long battery life.' },
+    { title: 'Fitness Tracker', description: 'Track your health and fitness goals with advanced sensors and insights. Monitor your activity, sleep, and heart rate.' },
   ];
 
   window.openModal = function(index) {

@@ -107,6 +107,11 @@ button:focus, .close:focus, input:focus, textarea:focus, a:focus {
 }
 .card img {
   width: 100%;
+  height: 180px;
+  object-fit: contain;
+  background: #fff;
+  display: block;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
