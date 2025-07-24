@@ -1,8 +1,9 @@
 # Product Landing Page
 
-This is a modern product landing page built with HTML, CSS, and JavaScript.
+This is a modern, responsive product landing page built with HTML, CSS, and JavaScript.
 
 ## Features
+- Responsive design for desktop and mobile
 - Light and dark mode toggle
 - Smooth scrolling navigation
 - Modal popups for product details
